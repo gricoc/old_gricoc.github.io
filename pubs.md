@@ -1,5 +1,8 @@
 ---
 layout: page
-title: Recent publications
+title: Publications
 permalink: /pubs/
 ---
+
+# Recent publications
+
