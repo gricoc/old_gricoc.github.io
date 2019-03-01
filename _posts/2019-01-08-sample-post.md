@@ -63,7 +63,7 @@ In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla e
 - First item, yo
 - Second item, dawg
 - Third item, what what?!
-- Fourth item, fo sheezy my neezy
+- Fourth item, fo sheezy my neezy [![DOI:10.1111/pops.12424](https://zenodo.org/badge/DOI/10.1111/pops.12424.svg)](https://doi.org/10.1111/pops.12424)
 
 ### Oh hai, an ordered list!!
 
